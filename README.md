@@ -1,6 +1,7 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+3 enemies with different behaviors.
 
 ## References
 
@@ -12,6 +13,7 @@ Pixel Platformer tiles provided by Kenney.nl
 https://kenney.nl/assets/pixel-platformer
 
 ## Future Development
+coins and stuff
 
 ## Created by
-Nathan Mishler
+Marlena Ames
